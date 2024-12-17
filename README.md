@@ -4,9 +4,9 @@ NAS (Neural Architecture Search) library
 
 ## Table of Contents
 
-    - Description[#description]
-    - Installation[#installation]
-    - Usage[#usage]
+    - [Description](#description)
+    - [Installation](#installation)
+    - [Usage](#usage)
 
 ## Description
 
